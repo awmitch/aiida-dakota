@@ -48,10 +48,8 @@
     },
     "install_requires": [
         "psycopg2-binary<2.9",
-        "aiida_core[atomic_tools]~=1.4,>=1.4.4",
         "jsonschema",
         "packaging",
-        "qe-tools~=2.0rc1",
         "xmlschema~=1.2,>=1.2.5",
         "numpy",
         "importlib_resources"
